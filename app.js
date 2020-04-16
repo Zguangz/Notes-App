@@ -6,4 +6,5 @@ const msg = getNotes();
 
 console.log(msg);
 console.log(validator.isURL("https://mead.io"));
-console.log(chalk.green.bold("Success!"));
+console.log(chalk.blue.bold.inverse("Success!"));
+console.log(chalk.red.bold.inverse("Error!"));
