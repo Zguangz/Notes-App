@@ -15,3 +15,7 @@
 13. Refactoring to Use Arrow Function
 14. Listing Notes
 15. Reading Notes
+16. Debugging Node.js
+    - ADD debugger
+    - USE node --inspect-brk app.js add --title="Courses" --body="Node.js"
+17. Error Messages
